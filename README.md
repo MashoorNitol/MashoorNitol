@@ -1,7 +1,7 @@
 ## Hi, I'm Mashroor Nitol 👋
 
 **Computational Material Scientist at Discovery2scale** · Santa Fe, NM  
-Formerly Technical Staff Member & Postdoctoral Research Associate at **Los Alamos National Laboratory** · Ph.D., Mechanical Engineering, Mississippi State University
+Formerly Technical Staff Member at **Los Alamos National Laboratory** 
 
 I build **machine-learning interatomic potentials** and the **HPC/GPU workflows** around them — connecting DFT (VASP) and atomistic simulation (LAMMPS) with AI surrogates such as **MACE**, **moment tensor potentials**, and **neural-network potentials** to accelerate materials discovery.
 
